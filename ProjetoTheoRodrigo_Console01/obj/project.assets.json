@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\rodiz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\UTFPR 2023 - 1\\Desktop\\Console_1\\TheodoroBertol_01\\ProjetoTheoRodrigo_Console01\\ProjetoTheoRodrigo_Console01.csproj",
+      "projectUniqueName": "C:\\Users\\rodiz\\source\\repos\\Rodrigo-Theo-Console01\\ProjetoTheoRodrigo_Console01\\ProjetoTheoRodrigo_Console01.csproj",
       "projectName": "ProjetoTheoRodrigo_Console01",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\UTFPR 2023 - 1\\Desktop\\Console_1\\TheodoroBertol_01\\ProjetoTheoRodrigo_Console01\\ProjetoTheoRodrigo_Console01.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\UTFPR 2023 - 1\\Desktop\\Console_1\\TheodoroBertol_01\\ProjetoTheoRodrigo_Console01\\obj\\",
+      "projectPath": "C:\\Users\\rodiz\\source\\repos\\Rodrigo-Theo-Console01\\ProjetoTheoRodrigo_Console01\\ProjetoTheoRodrigo_Console01.csproj",
+      "packagesPath": "C:\\Users\\rodiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodiz\\source\\repos\\Rodrigo-Theo-Console01\\ProjetoTheoRodrigo_Console01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
